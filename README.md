@@ -1,6 +1,6 @@
 # Menu de Disciplinas — Azulejo DSL
 
-Trabalho individual da equipe C — Projeto 2 da disciplina de Linguagens de Programação.
+Projeto 2 da disciplina de Linguagens de Programação.
 
 ## O que o programa faz
 
