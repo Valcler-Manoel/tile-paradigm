@@ -1,4 +1,4 @@
-# Menu de Disciplinas — Azulejo DSL
+# Menu de Disciplinas — Azulejo
 
 Projeto 2 da disciplina de Linguagens de Programação.
 
@@ -79,5 +79,7 @@ azulejo-menu/
     ├── state.lua
     └── debug.lua
 ```
-
+## Copyrights
+Repositório original: [Azulejo](https://github.com/Anthhon/azulejo/tree/main).
 ```
+
