@@ -1,0 +1,63 @@
+-- Homem de Ferro
+size 56x50
+background #1a0030
+
+color #2a1f5a
+fill 5,3 52,3
+fill 5,4 5,41
+fill 52,4 52,41
+fill 8,6 49,6
+fill 8,7 8,38
+fill 49,7 49,38
+fill 9,38 48,38
+fill 6,41 51,41
+fill 26,42 31,47
+fill 19,46 25,47
+fill 32,46 38,47
+
+color #000000
+fill 6,4 51,5
+fill 6,6 7,40
+fill 50,6 51,40
+fill 8,39 49,40
+
+
+color #000000
+fill 9,7 19,8
+fill 38,7 48,8
+fill 9,9 15,37
+fill 42,9 48,37
+fill 16,31 19,37
+fill 38,31 41,37
+fill 20,33 21,37
+fill 36,33 37,37
+fill 22,37 35,37
+
+color #CC1111
+fill 20,7 37,8
+fill 16,9 19,14
+fill 38,9 41,14
+fill 22,9 35,12
+fill 26,13 31,14
+fill 16,25 19,30
+fill 38,25 41,30
+fill 20,27 21,32
+fill 36,27 37,32
+fill 22,33 35,36
+
+color #FCEB35
+fill 20,9 21,18
+fill 36,9 37,18
+fill 22,13 25,18
+fill 32,13 35,18
+fill 16,15 19,24
+fill 38,15 41,24
+fill 26,15 31,32
+fill 20,21 25,26
+fill 32,21 37,26
+fill 22,27 25,32
+fill 32,27 35,32
+
+color #30E4FF
+fill 20,19 25,20
+fill 32,19 37,20

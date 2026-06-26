@@ -1,0 +1,9 @@
+# LÖVE2D
+*.love
+
+# Lua caches
+luac.out
+
+# OS
+.DS_Store
+Thumbs.db
